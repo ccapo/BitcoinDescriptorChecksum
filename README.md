@@ -1,0 +1,2 @@
+# BitcoinDescriptorChecksum
+Bitcoin Descriptor Checksum
