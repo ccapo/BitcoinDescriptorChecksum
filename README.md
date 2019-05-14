@@ -3,6 +3,7 @@
 * Computes the descriptor checksum for public as well as private keys, unlike the bitcoin RPC getdescriptorinfo (bitcoin-core v0.18.0)
 * Descriptors containing private keys can be used to derive hardened child keys with the RPC deriveaddresses (e.g. the bitcoin-core keypath m/0'/0'/i')
 * For details on the format of a descriptor, see [Support for Output Descriptors in Bitcoin Core](https://github.com/bitcoin/bitcoin/blob/0.18/doc/descriptors.md)
+* Standalone version of the code found [here](https://github.com/bitcoin/bitcoin/blob/0.18/src/script/descriptor.cpp)
 
 ## Installation
 
